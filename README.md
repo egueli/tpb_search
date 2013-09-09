@@ -5,8 +5,8 @@ It returns a list of search results, each having the following data:
 * magnet URL
 * no. of seeders
 * set of files
-** name
-** approx. size in bytes
+  * name
+  * approx. size in bytes
 
 The list is ordered by decreasing number of seeders.
 
